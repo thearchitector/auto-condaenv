@@ -6,7 +6,7 @@ This script simply hooks into the event trigger for changing your current workin
 
 ### Fish
 ```sh
-$ sudo curl -L https://git.io/JenWP >> ~/miniconda3/etc/fish/conf.d/conda.fish
+$ sudo curl -L https://git.io/JenWP >> ~/.local/fish/config.fish
 ```
 
 ## License
